@@ -17,7 +17,7 @@ Hiçbir ek cihaz gerekmiyor; öğrencinin kendi dizüstü bilgisayarı yeterli.
 Ortaya çıkan kural daha sonraki bir derste yeniden deneniyor, yani tek seferlik bir sonuçla yetinilmiyor.
 
 Nasıl Yapılacak?
-Yaklaşık 25 gönüllü öğrenci, üç laboratuvar dersinde her zamanki etkinliklerini kendi bilgisayarlarında yapacak. Derse hiç müdahale edilmeyecek. Ders boyunca bir program kamerayı, ekranı ve klavye kullanımını kaydedecek; ses kaydedilmeyecek, basılan harfler de kaydedilmeyecek. Ders sonunda öğrenci, dersin içinden seçilen 8 kısa anın 1 dakikalık ekran kaydını izleyip her an için o sırada ne yaptığını ve yardım isteyip istemediğini yazacak.
+Yaklaşık 25 gönüllü öğrenci, üç laboratuvar dersinde her zamanki etkinliklerini kendi bilgisayarlarında yapacak. Derse hiç müdahale edilmeyecek. Ders boyunca bir program kamerayı, ekranı ve klavye kullanımını kaydedecek; ses kaydedilmeyecek, basılan harfler de kaydedilmeyecek. Ders sonunda öğrenci, geri bildirim testiyle 'sessiz öğrenme çıkmazı' anlarını bildirecek, zamansal doğrulama yöntemi ile sonuçlar toplanıp netleştirilecektir.
 
 Ardından kayıtlardan altı işaret otomatik olarak çıkarılacak: kaş çatma, ekrana eğilme, geriye yaslanma, eli yüze götürme, etrafa bakma ve aynı kodu tekrar tekrar silip yazma. Son olarak iki kural karşılaştırılacak: sadece "ne kadar süredir ilerleme yok?" sorusuna bakan kural ve bu süreye en az iki işareti de ekleyen kural.
 
