@@ -25,13 +25,10 @@ Kullanılan Uygulamalar:
 Projede kullanılan araçların hepsi ücretsiz ve Python tabanlı:
 
 Python: Kayıt programı, verilerin düzenlenmesi ve tüm analizler Python ile yapılıyor.
-MediaPipe: Google'ın yapay zekâ kütüphanesi; kamera görüntüsünden kaş, baş ve el hareketlerini otomatik ölçüyor.
+MediaPipe: Google'ın yapay zekâ kütüphanesidir; kamera görüntüsünden kaş, baş ve el hareketlerini otomatik ölçüyor.
 OpenCV: Videoları kare kare okuyor.
-pandas: Tüm verileri tek bir tabloda birleştiriyor.
-scikit-learn: Kuralların ne kadar doğru çalıştığını hesaplıyor.
 Yapay zekâ dil modeli: Öğrencilerin yazdığı yorumları "takılmış", "düşünüyor", "ilerliyor" diye sınıflandırıyor.
 
-Videolar yalnızca araştırmacının bilgisayarında işlenecek, kimseyle paylaşılmayacak ve iş bitince silinecek.
 
 Hedefleri:
 
